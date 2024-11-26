@@ -3,7 +3,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139180573806441"
+    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139180573806441&contribution-view=false"
     width="600"
     height="120"
   />
