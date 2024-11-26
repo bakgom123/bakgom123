@@ -1,5 +1,14 @@
 ## David Yoo / 유건주
 안녕하세요! 🙋‍♂️ 개발자 David 입니다.
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139180573806441"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <br />
 <br />
 <br />
