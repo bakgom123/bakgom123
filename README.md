@@ -2,11 +2,11 @@
 안녕하세요! 🙋‍♂️ 개발자 David 입니다.
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/bakgom123?pet-id=649139180573806441&contribution-view=false"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/bakgom123"
+  width="600"
+  height="300"
+/>
 </a>
 
 
