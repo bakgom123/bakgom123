@@ -9,7 +9,8 @@
     height="120"
   />
 </a>
-  
+
+[![Bakgom123's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakgom123)](https://github.com/bakgom123/github-readme-stats)
 
 
 ## Skills
