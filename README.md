@@ -1,5 +1,5 @@
 ## David Yoo / 유건주
-안녕하세요! 🙋‍♂️ 개발자 David 입니다.
+안녕하세요! 🙋‍♂️ David 입니다.
 
 
 <a href="https://github.com/devxb/gitanimals">
