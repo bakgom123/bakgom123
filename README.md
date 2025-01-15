@@ -10,7 +10,7 @@
   />
 </a>
 
-[![Bakgom123's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakgom123&show_icons=true&theme=radical)
+![Bakgom123's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakgom123&show_icons=true&theme=radical)
 
 
 ## Skills
